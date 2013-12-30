@@ -1,0 +1,42 @@
+/* Colored bar*/
+    .bar{
+	margin:0;
+    }
+
+
+     /* news */
+    .news_bar{ 
+	background: url(../images/news_icon.png) left 14px no-repeat;
+    } 
+    
+   
+    /* Standart block quote */
+    blockquote {
+	width:613px;
+    }
+
+    .product_list_block{
+	left:0;
+	background:none;
+	clear:both; 
+	padding:0 !important;
+	width:680px; 
+	margin:0 !important;
+    }
+    
+    
+    .line.nomargin{
+	position:relative;
+	left:0px;
+	padding:0px;
+    }
+    
+    .logos li{
+	float:left;
+	margin:0 4px 12px 4px;
+    }
+   
+    .line.blog{ 
+ 
+	margin:0 0 20px 0!important;
+    }     
