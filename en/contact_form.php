@@ -1,8 +1,8 @@
 <?
 // edit these lines
 $your_name="ASIA VINA-TAIWAN";
-$your_email="contact@dtpgroup.com.vn";
-$your_web_site_name="dtpgroup.com.vn";
+$your_email="contact@dtpvn.com";
+$your_web_site_name="dtpvn.com";
 ?>
 
 <?php 
